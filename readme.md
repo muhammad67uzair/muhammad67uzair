@@ -1,4 +1,4 @@
-[![@m67uzair's Holopin board](https://holopin.me/m67uzair)](https://holopin.io/@m67uzair)
+[![@muhammad67uzair's Holopin board](https://holopin.me/muhammad67uzair)](https://holopin.io/@muhammad67uzair)
 
 <h1 align="center">Hey there! 👋 I'm Muhammad Uzair</h1>
 <h3 align="center">A Flutter Developer From Pakistan</h3>
@@ -17,9 +17,9 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=m67uzair&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="350" />
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammad67uzair&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="350" />
     <br /><br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m67uzair&theme=dark&hide_border=false" alt="GitHub Streak" width="350" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad67uzair&theme=dark&hide_border=false" alt="GitHub Streak" width="350" />
     <br /><br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m67uzair&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="350" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad67uzair&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="350" />
 </div>
