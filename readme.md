@@ -17,7 +17,7 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammad67uzair&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="350" />
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammad67uzair&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="350" />
     <br /><br />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad67uzair&theme=dark&hide_border=false" alt="GitHub Streak" width="350" />
     <br /><br />
