@@ -7,7 +7,6 @@
 🔭 I’m currently working on: Flutter<br>
 🌱 I’m currently learning: Django<br>
 💬 Ask me about: Flutter<br>
-⚡ Fun fact: I'm not fun and I don't know any facts
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammad.uzair.khuwaja) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_uzair67) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-uzair-42a79a160) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21339821)
